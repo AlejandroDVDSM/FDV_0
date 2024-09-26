@@ -1,7 +1,9 @@
 # FDV_0
 
-This is the global repository that will store all projects created in the different tasks of the subject ‘Fundamentals of Game Development’.
+Este es el repositorio global que almacenará todos los proyectos creados para las diferentes tareas de la asignatura _"Fundamentos del Desarrollo de Videojuegos_.
 
-* Task 1.1: [Tools. Git LFS](https://github.com/AlejandroDVDSM/FDV_1.1)
+* Tarea 1.1: [Herramientas. Git LFS](https://github.com/AlejandroDVDSM/FDV_1.1)
 
-* Task 1.2: [Unity 3D Environment](https://github.com/AlejandroDVDSM/FDV_1.2)
+* Tarea 1.2: [Unity 3D Environment](https://github.com/AlejandroDVDSM/FDV_1.2)
+
+* Tarea 1.3: [Control de versiones de Unity](https://github.com/AlejandroDVDSM/FDV_1.3)
