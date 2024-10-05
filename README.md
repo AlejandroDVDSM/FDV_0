@@ -11,3 +11,5 @@ Este es el repositorio global que almacenará todos los proyectos creados para l
 * Tarea 1.3: [Unity Perforce](https://github.com/AlejandroDVDSM/FDV_1.3_Perforce)
 
 * Scripts 1: [Movimiento Rectilíneo](https://github.com/AlejandroDVDSM/FDV_Scripts1)
+
+* Scripts 2: [Eventos](https://github.com/AlejandroDVDSM/FDV_Scripts_Events/)
