@@ -13,3 +13,5 @@ Este es el repositorio global que almacenará todos los proyectos creados para l
 * Scripts 1: [Movimiento Rectilíneo](https://github.com/AlejandroDVDSM/FDV_Scripts1)
 
 * Scripts 2: [Eventos](https://github.com/AlejandroDVDSM/FDV_Scripts_Events/)
+
+* Sprites: [Introducción a la programación de juegos 2D. Sprites](https://github.com/AlejandroDVDSM/FDV_Sprites)
